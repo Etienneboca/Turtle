@@ -1,0 +1,8 @@
+prefix=/home/boca/catkin_ws/devel
+
+Name: paquete1
+Description: Description of paquete1
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

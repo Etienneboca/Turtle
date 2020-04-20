@@ -1,0 +1,2 @@
+paquete1
+-DCATKIN_DEVEL_PREFIX=/home/boca/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/boca/catkin_ws/install -G Unix Makefiles
